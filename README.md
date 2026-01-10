@@ -1,4 +1,4 @@
-# Granny: Legacy Non-Steam
+# Granny Legacy Non-Steam
 
 Play Granny Legacy without Steam/owning the original Granny! <br />
 How to play: Run "Play Granny Legacy x64.exe" or "Play Granny Legacy.exe" <br />
