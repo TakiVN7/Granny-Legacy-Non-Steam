@@ -6,4 +6,10 @@ Original game: https://gamejolt.com/games/grannylegacy/1011593 <br />
 Granny 2 Enhanced Non-Steam: https://github.com/TakiVN7/Granny-2-Enhanced-Non-Steam
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TakiVN7/Granny-Legacy-Non-Steam&type=date&legend=top-left)](https://www.star-history.com/#TakiVN7/Granny-Legacy-Non-Steam&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=TakiVN7%2FGranny-Legacy-Non-Steam&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=TakiVN7/Granny-Legacy-Non-Steam&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=TakiVN7/Granny-Legacy-Non-Steam&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=TakiVN7/Granny-Legacy-Non-Steam&type=date&legend=top-left" />
+ </picture>
+</a>
